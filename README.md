@@ -1,4 +1,4 @@
-MySQL Data Cleaning Project
+Overview on this project:
 This repository contains a SQL scripts used for cleaning and analyzing data from a 'users' table. The main goal of this project is to demonstrate my skills to clean and format raw data to ensure consistency, integrity, and accuracy before analysis. The dataset used in this projects was generated using python libraries like numpy, pandas, datetime, random, string, I have also provided the original dataset with the python script.
 
 
